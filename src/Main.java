@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         // дз 1
         boolean isAlive = true;
         System.out.println( "Значение переменной  isAlive  типом boolean равно true");
@@ -48,6 +49,7 @@ public class Main {
         int brownCansPerClass = 4;
         int totalClasses = totalCans / (whiteCansPerClass + brownCansPerClass);
 
-    }
+}
+
 }
 
